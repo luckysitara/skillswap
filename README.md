@@ -5,7 +5,7 @@
 Welcome to the Skillswap API! This project is designed to help users connect, share skills, and collaborate with others. It features user authentication, messaging, skill management, notifications, and reviews.
 
 ## Features
-
+```
 - **User Authentication**: Sign up, log in, and manage user profiles.
 - **Password Reset**: Allows users to reset their passwords.
 - **Messaging**: Send and receive messages between users.
